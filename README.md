@@ -16,11 +16,12 @@ The weekly meal planner has the following features:
 ## Example
 **Weekly meal plan:**
 
-![wklmealplan](https://github.com/raphaelgebel/weeklymealplanner/assets/98976609/b35f1b20-7eb9-48d6-85fa-ca87bf5db04f)
+![Screenshot 2023-09-26 104939](https://github.com/raphaelgebel/weekly-meal-planner/assets/98976609/00e17987-1896-4618-b703-3d10aca5e0df)
 
 **Matching grocery list:**
 
-![grocerylist](https://github.com/raphaelgebel/weeklymealplanner/assets/98976609/9ee4438f-6a75-495a-8394-65b8574a1dfc)
+![Screenshot 2023-09-26 105012](https://github.com/raphaelgebel/weekly-meal-planner/assets/98976609/4a3e7860-3516-4eac-969b-07206e937453)
+
 
 ## Usage
 1. Clone the repository.
